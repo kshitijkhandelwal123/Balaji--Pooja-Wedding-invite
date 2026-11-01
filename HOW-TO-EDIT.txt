@@ -1,0 +1,14 @@
+SOUTH INDIAN · BANANA LEAF INVITATION — HOW TO EDIT
+====================================================
+Edit ONLY details.js (on GitHub: open the file > pencil > edit > Commit changes). Keep the "quotes" and commas.
+
+Couple ....... groom / bride (short), groomFull / brideFull (invitation card), monogram, parents
+Opening ...... gateEyebrow, gateText, gateImage (resort photo behind the envelope)
+Pictures ..... heroImage (top), venueImage, footerImage, postcards (3 photos)
+Date ......... weddingDateTime (countdown), dateDay / dateMonth / dateYear (3 scratch cards — shown on EVERY visit)
+Events ....... the two function cards: title, day, date, month, time, extras (extra lines), note, image, mood ("evening"/"dawn")
+Venue ........ venueName, venueAddress, venueNote, mapLink (paste a Google Maps share link) or mapQuery
+Closing ...... closing, families, hashtag
+Music ........ put an MP3 in the music folder; when replacing, use a NEW name (song2.mp3) and update music:
+Hidden ....... hideSections: ["gallery","dress","rsvp"] — remove a name to show that section again
+Photos ....... upload photos from INSIDE the images folder; use lowercase names like resort-lake.jpg
