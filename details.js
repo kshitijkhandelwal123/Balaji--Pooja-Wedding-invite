@@ -10,7 +10,7 @@ window.WEDDING = {
   bride: "Pooja",
   groomFull: "Balaji Sumukh TV",       /* full name on the invitation card */
   brideFull: "Pooja J",
-  monogram: "B & P",
+  monogram: "S & P",
   groomParents: "Late Smt. Purnima D.P. & Late Sri Venkatesh Babu T.N.",
   groomLabel: "Son of",
   brideParents: "Smt. Radha J. & Sri Anand Kumar J. (Ballari)",
