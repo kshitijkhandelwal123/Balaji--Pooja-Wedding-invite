@@ -11,7 +11,7 @@ window.WEDDING = {
   groomFull: "Balaji Sumukh TV",       /* full name on the invitation card */
   brideFull: "Pooja J",
   monogram: "S & P",
-  groomParents: "Late Smt. Purnima D.P. & Late Sri Venkatesh Babu T.N.",
+  groomParents: "Late Smt. Purnima D.P. & Late Sri Venkatesh Babu T.N.\n\nWith the blessings of\nKIRAN SK AND SUPRIYA TV",
   groomLabel: "Son of",
   brideParents: "Smt. Radha J. & Sri Anand Kumar J. (Ballari)",
   brideLabel: "Daughter of",
