@@ -6,9 +6,9 @@
 window.WEDDING = {
 
   /* ---- couple ---- */
-  groom: "Balaji Sumeeth",             /* name on the opening screen & top of the page */
+  groom: "Balaji Sumukh",             /* name on the opening screen & top of the page */
   bride: "Pooja",
-  groomFull: "Balaji Sumeeth M",       /* full name on the invitation card */
+  groomFull: "Balaji Sumukh TV",       /* full name on the invitation card */
   brideFull: "Pooja J",
   monogram: "B & P",
   groomParents: "Late Smt. Purnima D.P. & Late Sri Venkatesh Babu T.N.",
@@ -79,8 +79,8 @@ window.WEDDING = {
   whatsapp: "918660506457",            /* RSVP replies go to this WhatsApp number: country code + number, no + */
   rsvpBy: "",                          /* e.g. "5 Nov 2026"; "" = hide the reply-by line */
   closing: "Your presence and blessings will make our celebration complete.",
-  families: "With love — The Families of Balaji Sumeeth & Pooja",
-  hashtag: "",                         /* "" = auto #BalajiSumeethWedsPooja */
+  families: "With love — The Families of Balaji Sumukh & Pooja",
+  hashtag: "",                         /* "" = auto #BalajiSumukhWedsPooja */
   music: "music/song.mp3",             /* "" = no music */
 
   dressCode: [],
