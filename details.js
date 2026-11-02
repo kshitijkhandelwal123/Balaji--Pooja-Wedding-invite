@@ -76,8 +76,8 @@ window.WEDDING = {
   mapQuery: "Veerdency Resort, Devanahalli, Chikkasanne, Bengaluru 562110",
 
   /* ---- RSVP & closing ---- */
-  whatsapp: "910000000000",            /* only used if RSVP is shown */
-  rsvpBy: "",
+  whatsapp: "910000000000",            /* RSVP replies go to this WhatsApp number: country code + number, no + */
+  rsvpBy: "",                          /* e.g. "5 Nov 2026"; "" = hide the reply-by line */
   closing: "Your presence and blessings will make our celebration complete.",
   families: "With love — The Families of Balaji Sumeeth & Pooja",
   hashtag: "",                         /* "" = auto #BalajiSumeethWedsPooja */
@@ -89,5 +89,5 @@ window.WEDDING = {
   theme: { ink: "#3d2a1a", blue: "#2f6b3a", sky: "#e4efd8", mist: "#fbf6e8", gold: "#c39a3e" },
 
   /* sections to hide: "date", "events", "venue", "gallery", "dress", "rsvp", "postcard" */
-  hideSections: ["gallery", "dress", "rsvp"]
+  hideSections: ["gallery", "dress"]
 };

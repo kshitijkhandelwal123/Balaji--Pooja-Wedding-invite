@@ -28,7 +28,7 @@ try{set("dWeek",new Intl.DateTimeFormat("en-IN",{weekday:"long",timeZone:"Asia/K
 
 set("evEyebrow",W.eventsEyebrow);set("vName",W.venueName);set("vNote",W.venueNote);set("vCity",W.venueCity);set("vAddr",W.venueAddress);
 set("dEyebrow",W.dressEyebrow);set("dTitle",W.dressTitle);
-set("rsvpBy",W.rsvpBy);set("closeTxt",W.closing);set("fam",W.families);
+set("rsvpBy",W.rsvpBy);if(!W.rsvpBy){var _rn=document.querySelector(".rsvpnote");if(_rn)_rn.style.display="none"}set("closeTxt",W.closing);set("fam",W.families);
 set("clNames",W.groom+" & "+W.bride);
 set("clTag",W.hashtag||("#"+(W.groom+"Weds"+W.bride).replace(/\s+/g,"")));
 if(W.couplePhoto){$("couplePhoto").src=W.couplePhoto;$("coupleWrap").hidden=false}
