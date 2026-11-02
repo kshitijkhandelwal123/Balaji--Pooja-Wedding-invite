@@ -6,7 +6,7 @@
 window.WEDDING = {
 
   /* ---- couple ---- */
-  groom: "Balaji Sumukh",             /* name on the opening screen & top of the page */
+  groom: "Sumukh",             /* name on the opening screen & top of the page */
   bride: "Pooja",
   groomFull: "Balaji Sumukh TV",       /* full name on the invitation card */
   brideFull: "Pooja J",
